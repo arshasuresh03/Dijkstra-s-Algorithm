@@ -32,3 +32,7 @@ These distances represent the lengths of the shortest paths from the source vert
 DEMO:
 
 ![image](https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/d93e5f38-4211-4651-a578-1ebf4ff16205)
+
+Code Output DEMO:
+
+<img width="234" alt="image" src="https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/4de0a252-f728-43d8-8de4-e686352f1bec">
