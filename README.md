@@ -30,7 +30,5 @@ After the algorithm terminates, the array dist[] contains the shortest distances
 These distances represent the lengths of the shortest paths from the source vertex to each destination vertex.
 
 DEMO:
-![image](https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/d93e5f38-4211-4651-a578-1ebf4ff16205)
-Code Output DEMO:
-![image](https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/84edfb0a-7d0a-41cd-9f04-cb60303655d7)
 
+![image](https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/d93e5f38-4211-4651-a578-1ebf4ff16205)
