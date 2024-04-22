@@ -35,4 +35,4 @@ DEMO:
 
 Code Output DEMO:
 
-<img width="234" alt="image" src="https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/4de0a252-f728-43d8-8de4-e686352f1bec">
+![image](https://github.com/arshasuresh03/Dijkstra-s-Algorithm/assets/160167081/3a56b05e-537c-4868-bb4b-85d377a7adec)
